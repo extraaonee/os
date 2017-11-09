@@ -1,0 +1,30 @@
+Command Name Task
+date To show the Current Date
+cal To show Current Month
+uptime To see how long the computer has been running
+w Who is logged on / what are they doing
+whoami User currently accessing computer
+uname  -a Print all system information
+pwd Shows present working directory
+free To check amount of free memory
+ls List files and directories in a directory
+ls - ll Showing attributes/permissions of files
+cd / cd .. Change directory/ Go to previous directory
+mv For moving a file to another directory
+man <cmd> To show the manual of the command
+mkdir <dirname> To create a directory with given name
+rmdir <dirname> To remove/delete directory with given name
+rm To remove a particular file
+touch To create a new file
+gedit <filename> To edit a file in current working directory
+rm –rf / -R <dirname> To remove a directory containing files
+cp <filename> <destaddress> To copy a file from current directory to destination address
+ifconfig -s To show IP configuration / To show IP Configuration Short Details
+hostname To show hostname
+history Display all the commands used in the session
+top Display Processor information
+whereis To display the location of a specified file
+clear all Clear the screen
+exit Terminate the process
+grep <attr> <pattern> <filename> Search for pattern in filename
+echo Display the Input String on the Screen as is
